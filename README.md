@@ -3,5 +3,13 @@ React-Native + Animated
 
 ## UI
 
+- SplashScreen
 ![alt text](https://ripley.eu/perso/app-mobile-ui/img/1.png)
 
+- Login
+![alt text](https://ripley.eu/perso/app-mobile-ui/img/2.png)
+![alt text](https://ripley.eu/perso/app-mobile-ui/img/3.png)
+![alt text](https://ripley.eu/perso/app-mobile-ui/img/4.png)
+
+- Register
+![alt text](https://ripley.eu/perso/app-mobile-ui/img/5.png)
